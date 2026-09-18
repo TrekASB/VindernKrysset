@@ -2,7 +2,6 @@
   "title": "MiniMap_Vindernkrysset_UTM32",
   "icon": "https://trekasb.github.io/VindernKrysset/MiniMap.png",
   "url": "https://trekasb.github.io/VindernKrysset/MiniMap_Vindernkrysset_UTM32.html",
-  "icon": "https://trekasb.github.io/VindernKrysset/MiniMap.png"
-  "description": "MiniMap i 3d vinduet.",
+  "description": "MiniMap i 3D-vinduet – EUREF89 UTM32 / NN2000.",
   "enabled": true
 }
